@@ -1,0 +1,14 @@
+a{
+    text-decoration: none;
+}
+
+.image{
+    display: block;
+    width: 400px;
+    height: 290px;
+    margin-top: 50px
+}
+.index-img{
+    width: 50%;
+    height: 50%;
+}
